@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-from PIL import Image
 import sklearn
 print(sklearn.__version__)
 #load the model from disk
