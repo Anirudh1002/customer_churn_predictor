@@ -49,7 +49,7 @@ def main():
         if prediction == 1:
             st.warning('Yes, the customer will terminate the service.')
         else:
-            st.success('No, the customer is happy with Telco Services.')
+            st.success('No, the customer is happy with the services.')
 
 
 
